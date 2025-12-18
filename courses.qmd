@@ -4,23 +4,40 @@ format: html
 editor: visual
 ---
 
-## Quarto
+# Our courses
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
++-------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
+| Children’s Courses                                                                                                                  | 🧑‍🏫 Adult Courses                                                                                     |
++-------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
+| ✅ All lessons are online and one-to-one, ensuring high quality and steady progress                                                 | ✅ All lessons are online, with two flexible options:                                                |
+|                                                                                                                                     |                                                                                                      |
+| ✅ Standard program: 2 hours per week for 3 years — guiding children from beginner to confident, independent Arabic users           | One-to-one lessons                                                                                   |
+|                                                                                                                                     |                                                                                                      |
+| ✅ British-based teaching methods with interactive and engaging activities                                                          |  Small group evening courses                                                                         |
+|                                                                                                                                     |                                                                                                      |
+| ✅ Bespoke learning materials and free online subscription are a gift to all new students                                           |  ✅ Standard evening group course: 18 sessions per level, 2 hours per week                           |
+|                                                                                                                                     |                                                                                                      |
+| ✅ Our current students are able to participate confidently in the Arabic Reading Challenge after completing the standard program   | ✅ British-based teaching methods with interactive and engaging activities                           |
+|                                                                                                                                     |                                                                                                      |
+|                                                                                                                                     | ✅ Bespoke learning materials and free online platform subscription are a gift to all new students   |
++-------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
+| 📍 Edinburgh (UK): £100 per month                                                                                                   | *Standard Evening Group Course*                                                                      |
+|                                                                                                                                     |                                                                                                      |
+| 📍 Dubai (UAE): AED 500 per month (payment via Wise)                                                                                | ·         Edinburgh (UK): £140 per level (18 sessions)                                               |
+|                                                                                                                                     |                                                                                                      |
+|                                                                                                                                     | ·         Dubai (UAE): AED 650 per level (payment via Wise)                                          |
+|                                                                                                                                     |                                                                                                      |
+|                                                                                                                                     | One-to-One Lessons (2 hours/week)                                                                    |
+|                                                                                                                                     |                                                                                                      |
+|                                                                                                                                     | ·         Edinburgh (UK): £160 per month                                                             |
+|                                                                                                                                     |                                                                                                      |
+|                                                                                                                                     | ·         Dubai (UAE): AED 750 per month (payment via Wise)                                          |
++-------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
+| 🎁 First lesson free                                                                                                                | *Free Experience*                                                                                    |
+|                                                                                                                                     |                                                                                                      |
+| 📲 WhatsApp Us: +44 7775 241717                                                                                                     | *Group evening courses: Free experience session on Google Meet*                                      |
+|                                                                                                                                     |                                                                                                      |
+|                                                                                                                                     | *One-to-one lessons: First lesson free (30 min)*                                                     |
+|                                                                                                                                     |                                                                                                      |
+|                                                                                                                                     | *📲 WhatsApp Us: +44 7775 241717*                                                                    |
++-------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+

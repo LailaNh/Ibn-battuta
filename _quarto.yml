@@ -1,20 +1,30 @@
-project: 
+project:
   type: website
-  
-website: 
-  title: "Ibn Battuta Arabic Centre Ltd
-One-to-One Online Arabic Lessons 
+  output-dir: "./docs"
+  render:
+    - "*.qmd"
+  preview:
+    port: 5133
+
+execute:
+  freeze: auto
+
+website:
+  title: "Ibn Battuta Ltd"
+  description: "One-to-One Online Arabic Lessons 
 Children & Adults"
+#  site-url: "https://ddi-talent.github.io/website-ug-data-science/"
+#  favicon: "/favicon.png"
   navbar:
-    left:
-      -text: "Home"
-       file: index.qmd
-      -text: "Courses"
-        file: courses.qmd
-      -text: "Our Achivements!"
-        file: achivements.qmd
-
-
+    pinned: true
+    background: "#2a405e"
+    right:
+    - text: "Home"
+      file: index.qmd
+    - text: "Courses"
+      file: courses.qmd
+    - text: "Our Achivements!"
+      file: achivements.qmd
 format:
   html:
     theme: flatly
