@@ -23,10 +23,14 @@ Children & Adults"
       file: index.qmd
     - text: "Courses"
       file: courses.qmd
-    - text: "Our Achivements!"
-      file: achivements.qmd
+    - text: "الرئيسية"
+      file: index-ar.qmd
+
 format:
   html:
     theme: flatly
     toc: true
+    toc-location: right
+    css: styles-rtl.css
+
        
