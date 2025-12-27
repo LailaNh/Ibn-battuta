@@ -23,7 +23,6 @@ Children & Adults"
       file: courses.qmd
     - text: "الرئيسية"
       file: index-ar.qmd
-
 format:
   html:
     theme: flatly
