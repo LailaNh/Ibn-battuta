@@ -1,3 +1,4 @@
+
 project:
   type: website
   output-dir: "./docs"
@@ -11,23 +12,20 @@ execute:
 
 website:
   title: "Ibn Battuta Ltd"
-  description: "One-to-One Online Arabic Lessons 
-Children & Adults"
-#  site-url: "https://ddi-talent.github.io/website-ug-data-science/"
-#  favicon: "/favicon.png"
+  description: >
+    One-to-One Online Arabic Lessons Children & Adults
   navbar:
     pinned: true
     background: "#2a405e"
     right:
-    - text: "Home"
-      file: courses.qmd
-    - text: "الرئيسية"
-      file: index-ar.qmd
+      - text: "Home"
+        file: courses.qmd
+      - text: "الرئيسية"
+        file: index_ar.qmd
+
 format:
   html:
     theme: flatly
     toc: true
     toc-location: right
     css: styles-rtl.css
-
-       
