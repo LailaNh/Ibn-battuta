@@ -4,9 +4,7 @@ format: html
 editor: visual
 ---
 
-# Ibn Battuta Arabic Ltd
-
-Inspired by the teaching methods we use at Ibn Battuta......
+**Ibn Battuta Arabic Ltd**
 
 ### One of our achievements
 
@@ -14,9 +12,7 @@ Congratulations to Nejm Eddin Rasheed Nama – 1st Place Winner of the 2025 Arab
 
 ![](images/clipboard-1288735259.png){fig-align="center"}
 
-### Our cources
-
-#### Children’s Courses
+### Children’s Courses
 
 All lessons are online and one-to-one, ensuring high quality and steady progress Standard programme: 2 hours per week for 3 years — guiding children from beginner to confident, independent Arabic users British-based teaching methods with interactive and engaging activities Bespoke learning materials and a free online subscription are a gift to all new students
 
@@ -30,7 +26,7 @@ Edinburgh (UK): £100 per month Dubai
 
 **WhatsApp** us: +44 7775 241717
 
-#### Adult Courses
+### Adult Courses
 
 All lessons are online, with two flexible options: One-to-one lessons Small group evening courses Standard evening group course: 18 hours per level, 2 hours per week British-based teaching methods with interactive and engaging activities Bespoke learning materials are provided to all students Standard Evening
 
