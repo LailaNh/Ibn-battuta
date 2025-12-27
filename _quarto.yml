@@ -20,8 +20,6 @@ Children & Adults"
     background: "#2a405e"
     right:
     - text: "Home"
-      file: index.qmd
-    - text: "Courses"
       file: courses.qmd
     - text: "الرئيسية"
       file: index-ar.qmd

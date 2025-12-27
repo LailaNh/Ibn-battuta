@@ -4,16 +4,4 @@ format: html
 editor: visual
 ---
 
-#### One-to-One Online Arabic Lessons Children & Adults
-
-+--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
-| ✅ British-based methods for teaching Arabic For both native and non-native speakers | ![](images/Ib_battuta_Nejm.png)\                                                                                                   |
-|                                                                                      | \                                                                                                                                  |
-| ✅ One-to-one lessons at group rates                                                 |                                                                                                                                    |
-|                                                                                      | Congratulations to Nejm Eddin Rasheed Nama – 1st Place Winner of the 2025 Arabic Reading Challenge (UK Level)\                     |
-| ✅ Operating in Edinburgh and Dubai                                                  |                                                                                                                                    |
-|                                                                                      | Inspired by the teaching methods we use at Ibn Battuta, Nejm achieved first place in the 2025 Arabic Reading Challenge (UK Level). |
-| 🎁 First lesson free                                                                 |                                                                                                                                    |
-|                                                                                      |                                                                                                                                    |
-| 📲 WhatsApp Us: +44 7775 241717                                                      |                                                                                                                                    |
-+--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
+#### 

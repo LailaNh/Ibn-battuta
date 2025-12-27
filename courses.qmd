@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: "Home"
 format: html
 editor: visual
 ---
@@ -8,7 +8,7 @@ editor: visual
 
 Inspired by the teaching methods we use at Ibn Battuta......
 
-### One of our achievements 
+### One of our achievements
 
 Congratulations to Nejm Eddin Rasheed Nama – 1st Place Winner of the 2025 Arabic Reading Challenge (UK Level). Inspired by the teaching methods we use at Ibn Battuta, Nejm achieved first place in the 2025 Arabic Reading Challenge (UK Level).
 

@@ -1,0 +1,41 @@
+
+/* Make Arabic pages RTL and right-aligned */
+html[lang="ar"] body {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Keep code and math readable LTR */
+html[lang="ar"] pre, 
+html[lang="ar"] code,
+html[lang="ar"] .code-cell,
+html[lang="ar"] .cell-output pre {
+  direction: ltr;
+  text-align: left;
+}
+
+/* Navbar alignment + spacing for RTL */
+html[lang="ar"] .navbar .navbar-nav { direction: rtl; }
+html[lang="ar"] .navbar .navbar-brand { margin-right: 0.5rem; }
+html[lang="ar"] .navbar .nav-item { margin-left: 0; margin-right: .5rem; }
+
+/* TOC and headings */
+html[lang="ar"] nav[role="doc-toc"],
+html[lang="ar"] .toc, 
+html[lang="ar"] .sidebar {
+  direction: rtl;
+  text-align: right;
+}
+html[lang="ar"] .toc .toc-expand,
+html[lang="ar"] .sidebar .toc .toc-actions { float: left; }
+
+/* Lists and blockquotes */
+html[lang="ar"] ul, 
+html[lang="ar"] ol { padding-right: 1.25rem; padding-left: 0; }
+html[lang="ar"] blockquote {
+  border-right: 4px solid #ddd; border-left: 0; padding-right: 1rem; padding-left: 0;
+}
+
+/* Figures and captions */
+html[lang="ar"] figure, 
+html[lang="ar"] figcaption { direction: rtl; text-align: center; }
