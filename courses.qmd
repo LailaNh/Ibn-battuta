@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-# Ibn Battuta Arabic Centre Ltd Online Arabic Lessons Children & Adults
+**Ibn Battuta Arabic Centre Ltd Online Arabic Lessons Children & Adults**
 
 ✅British-based methods for teaching Arabic for both native and non-native speakers
 
@@ -26,7 +26,7 @@ editor: visual
 
 ### Our Courses
 
-#### Children’s Courses
+### Children’s Courses
 
 ✅ All lessons are online and one-to-one, ensuring high quality and steady progress
 
@@ -46,7 +46,7 @@ editor: visual
 
 📲 [WhatsApp us](https://wa.me/447775241717)
 
-#### Adult Courses
+### Adult Courses
 
 ✅All lessons are online, with two flexible options:
 
