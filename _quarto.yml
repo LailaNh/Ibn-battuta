@@ -32,6 +32,7 @@ website:
 
 format:
   html:
+    include-in-header: includes/head.html
     theme: flatly
     toc: true
     toc-location: right
