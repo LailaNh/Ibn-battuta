@@ -1,18 +1,15 @@
 ---
-title: "Arabic Courses in the UK & Dubai — Adults and Children"
-description: "One-to-one Arabic lessons for adults and children in the UK and Dubai—beginner to advanced, online and in-person."
-keywords:
-  - Arabic courses UK
-  - Arabic classes Dubai
-  - learn Arabic online
-  - Arabic for adults
-  - Arabic for children
-  - Arabic tutoring UK
-  - Arabic tutoring Dubai
-  - Modern Standard Arabic lessons
-  - Arabic language school
-  - GCSE Arabic tutoring
+
+---
+title: "Arabic Courses in UK & Dubai — Adults and Children"
+description: "One-to-one and in groups Arabic lessons for adults and children in the UK and Dubai—beginner to advanced, online"
 lang: en
+format:
+  html:
+    meta:
+      description: "One-to-one Arabic lessons for adults and children in the UK and Dubai—beginner to advanced, online"
+      keywords: >
+        Arabic courses UK, Arabic classes Dubai, learn Arabic online, Arabic for adult, Arabic for children, Arabic tutoring UK, Arabic tutoring Dubai, Modern Standard Arabic lessons,Arabic language school
 ---
 
 **Ibn Battuta Arabic Centre Ltd Online Arabic Lessons Children & Adults**
