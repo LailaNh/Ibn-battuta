@@ -14,7 +14,7 @@ website:
   title: "Ibn Battuta Ltd"
   description: >
     One-to-One Online Arabic Lessons — Children & Adults in the UK and Dubai
-  site-url: "https://ibn-battuta.co.uk"   # required for Quarto to generate sitemap.xml
+  site-url: "https://ibn-battuta.co.uk"   # enables automatic sitemap.xml
   open-graph: true
   twitter-card:
     # (optional) Set these if you have them; otherwise you can remove creator/site fields
