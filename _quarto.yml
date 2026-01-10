@@ -13,7 +13,15 @@ execute:
 website:
   title: "Ibn Battuta Ltd"
   description: >
-    One-to-One Online Arabic Lessons Children & Adults
+    One-to-One Online Arabic Lessons — Children & Adults in the UK and Dubai
+  site-url: "https://ibn-battuta.co.uk"
+  # Enable SEO-friendly features
+  open-graph: true
+  twitter-card:
+    creator: "@your_handle"     # optional, replace or remove
+    site: "@your_handle"        # optional, replace or remove
+    image: "/images/og-cover.jpg"  # optional: path to a share image
+  sitemap: true
   navbar:
     pinned: true
     background: "#2a405e"
@@ -29,3 +37,10 @@ format:
     toc: true
     toc-location: right
     css: styles-rtl.css
+    lang: en
+    # Global meta tags; can be overridden per page
+    meta:
+      author: "Ibn Battuta Ltd"
+      robots: "index, follow"
+      keywords: "Arabic courses UK, Arabic classes Dubai, learn Arabic online, Arabic for adults, Arabic for children, Arabic language school, Arabic tutoring, Modern Standard Arabic, Arabic lessons UK, Arabic lessons Dubai"
+      description: "One-to-One and in groups Arabic lessons for adults and children in the UK and Dubai. Beginner to advanced, online"
