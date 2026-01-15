@@ -25,9 +25,9 @@ website:
     pinned: true
     background: "#2a405e"
     right:
-      - text: "Home"
+      - text: "English"
         file: courses.qmd
-      - text: "الرئيسية"
+      - text: "عربي"
         file: index_ar.qmd
 
 format:
