@@ -1,6 +1,5 @@
 ---
-title: "Ibn Battuta Arabic Centre Ltd Online Arabic Lessons Children & Adults"
-description: "One-to-one and in groups Arabic lessons for adults and children in the UK and Dubai—beginner to advanced, online"
+title: "Ibn Battuta Arabic Centre Ltd\n Online Arabic Lessons Children & Adults"
 lang: en
 format:
   html:
@@ -10,7 +9,7 @@ format:
         Arabic courses UK, Arabic classes Dubai, learn Arabic online, Arabic for adult, Arabic for children, Arabic tutoring UK, Arabic tutoring Dubai, Modern Standard Arabic lessons,Arabic language school
 ---
 
-✅British-based methods for teaching Arabic for both native and non-native speakers
+✅ British-based methods for teaching Arabic for both native and non-native speakers
 
 ✅ One-to-one lessons at group rates
 
@@ -22,9 +21,7 @@ format:
 
 ![](images/clipboard-247535905.png){fig-align="center"}
 
-✅ Congratulations to Nejm Eddin Rasheid Nama – 1st Place Winner of the 2025 Arabic Reading Challenge (UK Level)
-
-✅ Inspired by the teaching methods and curriculum we use at Ibn Battuta, Nejm achieved first place in the 2025 Arabic Reading Challenge (UK Level), which was held in Dubai.
+✅ Congratulations to Nejm Eddin Rasheid Nama – 1st Place Winner of the 2025 Arabic Reading Challenge (UK Level) which held in Doubai.
 
 ### Our Courses
 
@@ -42,7 +39,7 @@ format:
 
 📍 United Kingdom: £100 per month
 
-📍 Dubai: AED 500 per month (payment via Wise) 
+📍 Dubai: AED 500 per month 
 
 🎁 First lesson free
 
@@ -50,7 +47,7 @@ format:
 
 ### Adult Courses
 
-✅All lessons are online, with two flexible options:
+✅ All lessons are online, with two flexible options:
 
 -   One-to-one lessons
 
@@ -64,15 +61,15 @@ format:
 
 **One-to-One Lessons (2 hours/week)**
 
-📍United Kingdom: £160 per month
+📍United Kingdom: £200 per month
 
-📍Dubai: AED 800 per month (payment via Wise)
+📍Dubai: AED 1000 per month
 
 **Standard Evening Group Course**
 
 📍United Kingdom: £140 per level (18 hours)
 
-📍Dubai: AED 700 per level (payment via Wise)
+📍Dubai: AED 700 per level
 
 🎁 First lesson free
 

@@ -26,9 +26,9 @@ website:
     background: "#2a405e"
     right:
       - text: "English"
-        file: courses.qmd
+        file: Eng.qmd
       - text: "عربي"
-        file: index_ar.qmd
+        file: Ara.qmd
 
 format:
   html:
