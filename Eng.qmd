@@ -1,5 +1,4 @@
 ---
-title: "Ibn Battuta Arabic Centre Ltd\n Online Arabic Lessons Children & Adults"
 lang: en
 format:
   html:
@@ -8,6 +7,10 @@ format:
       keywords: >
         Arabic courses UK, Arabic classes Dubai, learn Arabic online, Arabic for adult, Arabic for children, Arabic tutoring UK, Arabic tutoring Dubai, Modern Standard Arabic lessons,Arabic language school
 ---
+
+# Ibn Battuta Arabic Centre Ltd
+
+# Online Arabic Lessons Children & Adults
 
 ✅ British-based methods for teaching Arabic for both native and non-native speakers
 
