@@ -1,2 +1,2 @@
 # Ibn-battuta
-The website is: https://lailanh.github.io/Ibn-battuta/courses.html
+The website is: https://ibn-battuta.co.uk/Eng.html
