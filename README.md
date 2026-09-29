@@ -1,2 +1,8 @@
 # Ibn-battuta
 The website is: https://ibn-battuta.co.uk/Eng.html
+## License
+The source code in this repository is licensed under the MIT License.
+
+## Content Rights
+Unless otherwise stated, all website content, including text, images, logos, branding, and educational materials, is Copyright © 2026 Laila Dabab Nahas.
+All rights reserved.
